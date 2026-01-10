@@ -3,7 +3,6 @@
 
 > This form is intentionally short. The goal is alignment, not paperwork.
 
----
 
 ## 1. Team Information
 
@@ -23,7 +22,6 @@
 - `@________________`
 - `@________________`
 
----
 
 ## 2. Project Context
 
@@ -34,7 +32,6 @@
 **Target User (keep it simple)**  
 (e.g., student, freelancer, small team, personal use)
 
----
 
 ## 3. Scope & Constraints
 
@@ -48,7 +45,6 @@
 - 
 - 
 
----
 
 ## 4. Technical Setup
 
@@ -61,7 +57,6 @@
 - ☐ Not planned
 - ☐ Planned (where?): `________________`
 
----
 
 ## 5. Team Working Agreement
 
@@ -81,7 +76,6 @@
 - ☐ Discord / Slack
 - ☐ Other: `________________`
 
----
 
 ## 6. Learning Goals
 
@@ -89,7 +83,6 @@
 - 
 - 
 
----
 
 ## 7. Acknowledgment
 
@@ -104,6 +97,5 @@ By submitting this form, the team agrees to:
 **Date:**  
 `__________________________________`
 
----
 
 *End of form*
