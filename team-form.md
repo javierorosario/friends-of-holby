@@ -1,8 +1,4 @@
 # Team Project Intake Form  
-*Mentored Real-World Software Project*
-
-> This form is intentionally short. The goal is alignment, not paperwork.
-
 
 ## 1. Team Information
 
